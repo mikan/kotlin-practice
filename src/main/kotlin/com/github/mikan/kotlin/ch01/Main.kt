@@ -1,4 +1,4 @@
-package com.github.mikan.demo
+package com.github.mikan.kotlin.ch01
 
 data class Person(val name: String, val age: Int? = null)
 
