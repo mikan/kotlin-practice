@@ -7,10 +7,8 @@ fun main(args: Array<String>) {
     button.click()
 }
 
-/*
-Result:
-I'm clickable!
-I'm focusable!
-I got focus.
-I was clicked
- */
+// Result:
+// I'm clickable!
+// I'm focusable!
+// I got focus.
+// I was clicked
