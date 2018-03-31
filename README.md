@@ -1,7 +1,7 @@
 kotlin-practice
 ===============
 
-[![Build Status](https://travis-ci.org/mikan/kotrin-practice.svg?branch=master)](https://travis-ci.org/mikan/kotrin-practice)
+[![Build Status](https://travis-ci.org/mikan/kotlin-practice.svg?branch=master)](https://travis-ci.org/mikan/kotlin-practice)
 
 * 課題本: [Kotlin イン・アクション](https://book.mynavi.jp/ec/products/detail/id=78137) マイナビ出版 (2017/10/31)
   * 正誤表: [サポートページ](https://book.mynavi.jp/supportsite/detail/9784839961749.html)
