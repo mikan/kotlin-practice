@@ -4,6 +4,6 @@ jdk:
 sudo: false
 before_install:
   - chmod +x gradlew
-script: ./gradlew build check --scan
+script: ./gradlew build check
 notifications:
   email: false
